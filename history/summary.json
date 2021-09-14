@@ -22,7 +22,7 @@
     "url": "smaller-sites.netlify.app",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "smaller-sites",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 96,
     "timeMonth": 153,
     "timeYear": 153,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-14": 0
+    }
   }
 ]
